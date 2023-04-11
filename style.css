@@ -279,7 +279,7 @@ body._lock {
 /*EDGE GROUP*/
 .edge-group__container{
 	height: 908px;
-	background-image: url(.//img/bg_main.png);
+	background-image: url("bg_main.png");
 	background-size: contain;
 	background-repeat: no-repeat;
 }
@@ -323,7 +323,7 @@ body._lock {
     width: 80%;
     height: auto;
 	border-radius: 35px;
-	background-image: url(.//img/house-bg.svg), url(.//img/mission_bg.svg);
+	background-image: url("house-bg.svg"), url("mission_bg.svg");
 	background-size: 115%, cover;
 	background-repeat: no-repeat;
 	background-position: bottom left, bottom;
@@ -467,7 +467,7 @@ body._lock {
 	height: 100%;
 	margin: 100px auto;
 	background-color: #006CA7;
-	background-image: url(./img/flower1.svg), url(./img/flower2.svg), url(./img/flower3.svg);
+	background-image: url("flower1.svg"), url("flower2.svg"), url("flower3.svg");
 	background-repeat: no-repeat;
 	background-position: bottom left, bottom center, bottom right;
 	border-radius: 32px;
@@ -498,7 +498,7 @@ body._lock {
 	.managment__container{
 		margin: 0px;
 		width: 100%;
-		background-image: url(./img/flower1.svg), url(./img/flower3.svg);
+		background-image: url("flower1.svg"), url("flower3.svg");
 		background-repeat: no-repeat;
 		background-position: bottom left, bottom right;
 		border-radius: 0px;
@@ -746,37 +746,37 @@ body._lock {
 	padding: 16px 64px 81px 34px;
 }
 .swiper-slide1{
-	background-image: url(.//img/slide1.png);
+	background-image: url("slide1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide2{
-	background-image: url(.//img/slide2.png);
+	background-image: url("slide2.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide3{
-	background-image: url(.//img/slide3.png);
+	background-image: url("slide3.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide4{
-	background-image: url(.//img/slide4.png);
+	background-image: url("slide4.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide5{
-	background-image: url(.//img/slide5.png);
+	background-image: url("slide5.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide6{
-	background-image: url(.//img/slide6.png);
+	background-image: url("slide6.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .swiper-slide7{
-	background-image: url(.//img/slide7.png);
+	background-image: url("slide7.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -944,7 +944,7 @@ body._lock {
 	flex-direction: row;
 	width: 60%;
 	margin: auto;
-	background-image: url(.//img/bg_pc-feedback.svg);
+	background-image: url("bg_pc-feedback.svg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -1037,7 +1037,7 @@ input[type=submit]{
   }
   @media (max-width: 1024px){
 	.feedback__content{
-		background-image: url(./img/bg_tablet_feedback.svg);
+		background-image: url("bg_tablet_feedback.svg");
 		border-radius: 90px;
 		width: 98%;
 		margin: auto;
